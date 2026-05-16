@@ -1,0 +1,76 @@
+{
+  "notifications": {
+    "title": "الإشعارات",
+    "noNotifications": "لا توجد إشعارات",
+    "markAllAsRead": "وضع علامة على الكل كمقروء",
+    "settings": "إعدادات الإشعارات",
+
+    "categories": {
+      "trips": "الرحلات",
+      "safety": "الأمان",
+      "payments": "المدفوعات",
+      "promotions": "العروض الترويجية",
+      "messages": "الرسائل",
+      "system": "النظام"
+    },
+
+    "tripNotifications": {
+      "rideRequest": "طلب رحلة جديد",
+      "rideAccepted": "تم قبول الرحلة",
+      "driverArriving": "السائق قادم",
+      "driverArrived": "وصل السائق",
+      "rideStarted": "بدأت الرحلة",
+      "rideCompleted": "انتهت الرحلة",
+      "riderCancelled": "ألغيت الرحلة من قبل الراكب",
+      "driverCancelled": "ألغيت الرحلة من قبل السائق"
+    },
+
+    "safetyNotifications": {
+      "sosTriggered": "تم تفعيل الاستغاثة",
+      "sosResolved": "تم حل الاستغاثة",
+      "reportFile": "تم تقديم تقرير أمان",
+      "verificationRequired": "التحقق مطلوب",
+      "emergencyContact": "تم إخطار جهات الاتصال الطارئة"
+    },
+
+    "paymentNotifications": {
+      "paymentProcessed": "تمت معالجة الدفع",
+      "paymentFailed": "فشل الدفع",
+      "paymentRefunded": "تم استرجاع الدفع",
+      "walletUpdated": "تم تحديث المحفظة",
+      "invoiceGenerated": "تم إنشاء الفاتورة"
+    },
+
+    "promotionNotifications": {
+      "promoBannerNew": "عرض ترويجي جديد متاح",
+      "referralBonus": "تم الحصول على مكافأة الإحالة",
+      "badgeEarned": "تم الحصول على شارة",
+      "seasonalOffer": "عرض موسمي",
+      "dailyReward": "المكافأة اليومية متاحة"
+    },
+
+    "messageNotifications": {
+      "newMessage": "رسالة جديدة من {{name}}",
+      "groupMessage": "رسالة جديدة في {{group}}",
+      "supportReply": "رد الدعم"
+    },
+
+    "systemNotifications": {
+      "maintenanceAlert": "تنبيه الصيانة",
+      "appUpdate": "تحديث التطبيق متاح",
+      "accountUpdate": "تم تحديث الحساب",
+      "securityAlert": "تنبيه أمني"
+    },
+
+    "notificationTime": "منذ {{time}}",
+    "today": "اليوم",
+    "yesterday": "أمس",
+    "thisWeek": "هذا الأسبوع",
+    "earlier": "قبل ذلك",
+
+    "pushEnabled": "تم تفعيل إشعارات الدفع",
+    "emailEnabled": "تم تفعيل إشعارات البريد الإلكتروني",
+    "smsEnabled": "تم تفعيل إشعارات الرسائل النصية",
+    "inAppEnabled": "تم تفعيل الإشعارات في التطبيق"
+  }
+}

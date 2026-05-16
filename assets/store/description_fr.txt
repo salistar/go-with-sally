@@ -1,0 +1,130 @@
+Go With Sally - Application de Transport pour Femmes en Toute Sécurité au Maroc
+
+DESCRIPTION COURTE:
+Réservez des trajets en voiture avec des conductrices vérifiées et formées. Plateforme exclusive pour femmes au Maroc.
+
+DESCRIPTION COMPLÈTE:
+
+Bienvenue sur Go With Sally - Votre Application de Transport Sécurisée pour Femmes
+
+Go With Sally est une plateforme de covoiturage révolutionnaire conçue exclusivement pour les femmes au Maroc. Notre mission est de fournir un service de transport fiable, sûr et confortable, en mettant l'accent sur la sécurité des femmes.
+
+CARACTÉRISTIQUES PRINCIPALES:
+
+✓ CONDUCTRICES VÉRIFIÉES
+- Toutes nos conductrices subissent des contrôles de sécurité rigoureux
+- Vérification des antécédents judiciaires
+- Vérification de l'identité biométrique
+- Contrôle des documents d'immatriculation
+
+✓ ITINÉRAIRES SÉCURISÉS
+- Suivi en temps réel des trajets
+- Partage automatique de l'itinéraire avec les contacts d'urgence
+- Historique complet des trajets
+- Route optimisée pour la sécurité
+
+✓ BOUTON D'URGENCE (SOS)
+- Appel d'urgence instantané avec un seul long appui
+- Alerte automatique aux contacts d'urgence
+- Partage de localisation en temps réel
+- Communication directe avec le support 24/7
+
+✓ VÉRIFICATION BIOMÉTRIQUE
+- Reconnaissance faciale avancée pour la vérification d'identité
+- Prévention des faux profils
+- Authentification sécurisée pour les conductrices
+- Technologie anti-usurpation d'identité
+
+✓ PAIEMENT SÉCURISÉ
+- Paiements numériques (Stripe)
+- Pas d'espèces à bord
+- Reçus numériques automatiques
+- Historique des transactions transparent
+
+✓ PRIX ÉQUITABLE
+- Tarification transparente et sans surprise
+- Pas de prix de surcharge dynamique
+- Réductions de fidélité pour les trajets réguliers
+- Options de paiement flexibles
+
+✓ SYSTÈME D'ÉVALUATION
+- Notation des conductrices et des passagères
+- Système de badges de confiance
+- Historique de sécurité vérifiable
+- Renforcement communautaire
+
+✓ ASSISTANCE CLIENT 24/7
+- Support disponible en arabe et en français
+- Résolution rapide des problèmes
+- Équipe dédiée à la sécurité
+- Politique de remboursement juste
+
+CARACTÉRISTIQUES DE SÉCURITÉ:
+
+1. Contrôle d'Identité Biométrique
+   - Reconnaissance faciale pour vérifier que le conducteur est la bonne personne
+   - Analyse anti-spoofing pour détecter les photos écran et les doublons
+   - Comparaison de visages pour vérifier la cohérence
+
+2. Localisation et Suivi
+   - GPS en temps réel tout le long du trajet
+   - Historique géographique complet
+   - Notification aux contacts d'urgence
+   - Enregistrement pour les autorités si nécessaire
+
+3. Système de Communication
+   - Messages sécurisés dans l'application
+   - Pas d'échange de numéros de téléphone
+   - Bloquer les utilisateurs problématiques
+   - Signaler les comportements inappropriés
+
+4. Procédures de Sécurité
+   - Formation obligatoire pour les conductrices
+   - Code de conduite strict
+   - Politique d'annulation sûre
+   - Procédures d'accueil sécurisées
+
+PRIX ABORDABLES:
+
+- Tarif minimum: 10 DH
+- Tarif maximum: 5000 DH par trajet
+- Pas de frais cachés
+- Transparence complète avant la confirmation
+
+POUR COMMENCER:
+
+1. Téléchargez l'application
+2. Créez votre compte avec vérification biométrique
+3. Ajoutez vos contacts d'urgence
+4. Réservez votre premier trajet en toute sécurité
+5. Évaluez votre expérience
+
+CONDITIONS D'UTILISATION:
+
+- Âge minimum requis: 18 ans
+- Conductrice: permis valide et vérification
+- Passagère: aucune restriction d'âge
+- Service disponible dans les villes principales du Maroc
+
+POLITIQUE DE CONFIDENTIALITÉ:
+
+Votre vie privée est notre priorité. Toutes les données personnelles sont:
+- Cryptées de bout en bout
+- Stockées de manière sécurisée
+- Utilisées uniquement pour le service
+- Jamais partagées avec des tiers
+
+SUPPORT:
+
+Pour toute question ou problème:
+- Email: support@gowithsally.com
+- Numéro d'urgence: [À AJOUTER]
+- Chat dans l'application: disponible 24/7
+
+Go With Sally - Pour une Mobilité Sûre et Empowerment des Femmes au Maroc
+
+Rejoignez des milliers de femmes qui choisissent Go With Sally pour leurs déplacements sécurisés.
+
+Version: 1.0.0
+Dernière mise à jour: 2026-03-18
+Langues: Français, Arabe, Anglais

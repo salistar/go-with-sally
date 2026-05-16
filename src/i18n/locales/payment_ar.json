@@ -1,0 +1,55 @@
+{
+  "payment": {
+    "paymentMethods": "طرق الدفع",
+    "addPaymentMethod": "إضافة طريقة دفع",
+    "editPaymentMethod": "تعديل طريقة الدفع",
+    "deletePaymentMethod": "حذف طريقة الدفع",
+    "setAsDefault": "تعيين كافتراضي",
+    "removeCard": "إزالة البطاقة",
+
+    "cardNumber": "رقم البطاقة",
+    "cardHolder": "اسم صاحب البطاقة",
+    "expiryDate": "تاريخ الانتهاء",
+    "cvv": "رمز التحقق",
+    "cardType": "نوع البطاقة",
+
+    "visa": "فيزا",
+    "mastercard": "ماستركارد",
+    "amex": "أمريكان إكسبريس",
+
+    "wallet": "محفظة سالي",
+    "walletBalance": "رصيد المحفظة",
+    "addFunds": "إضافة أموال",
+    "withdrawFunds": "سحب الأموال",
+    "transactionHistory": "سجل المعاملات",
+
+    "mobileMoney": "الدفع عبر الهاتف",
+    "maroc_telecom": "مارك تليكوم",
+    "orange": "أورنج",
+    "inwi": "إينوي",
+
+    "bankTransfer": "تحويل بنكي",
+    "accountHolder": "صاحب الحساب",
+    "accountNumber": "رقم الحساب",
+    "bankName": "اسم البنك",
+
+    "paymentFailed": "فشل الدفع",
+    "paymentSuccess": "تم الدفع بنجاح",
+    "paymentPending": "الدفع قيد الانتظار",
+    "paymentCancelled": "تم إلغاء الدفع",
+
+    "addCardSuccess": "تمت إضافة البطاقة بنجاح",
+    "deleteCardSuccess": "تم حذف البطاقة بنجاح",
+    "defaultCardSet": "تم تعيين البطاقة كافتراضية",
+
+    "invalidCard": "رقم بطاقة غير صحيح",
+    "invalidCVV": "رمز التحقق غير صحيح",
+    "invalidExpiry": "تاريخ انتهاء غير صحيح",
+    "cardExpired": "انتهت صلاحية البطاقة",
+
+    "transactionDate": "التاريخ",
+    "transactionAmount": "المبلغ",
+    "transactionStatus": "الحالة",
+    "transactionType": "النوع"
+  }
+}

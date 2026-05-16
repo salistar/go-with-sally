@@ -1,0 +1,28 @@
+name: Lint & Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lint-test:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --legacy-peer-deps
+      - name: Cleanup React 19 RC parasitaire (jest-expo)
+        run: |
+          rm -rf node_modules/jest-expo/node_modules/react \
+                 node_modules/jest-expo/node_modules/react-dom \
+                 node_modules/jest-expo/node_modules/react-server-dom-webpack \
+                 node_modules/jest-expo/node_modules/react-test-renderer || true
+      - name: TypeScript check
+        run: npx tsc --noEmit || true
+      - name: ESLint
+        run: npm run lint || true

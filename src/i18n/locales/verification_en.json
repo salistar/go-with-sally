@@ -1,0 +1,155 @@
+{
+  "verification": {
+    "faceVerification": "Face Verification",
+    "faceVerificationDescription": "Please look at the camera to verify your identity",
+    "positionFace": "Position your face within the frame",
+    "verifying": "Verifying...",
+    "faceVerified": "Face verified successfully",
+    "accountLocked": "Account Locked",
+    "tryAgainIn": "Try again in {{time}}",
+    "remainingAttempts": "Remaining attempts: {{count}}",
+    
+    "enterPhone": "Enter your phone number",
+    "phoneDescription": "We will send you a verification code",
+    "sendCode": "Send Code",
+    "sendVia": {
+      "sms": "SMS",
+      "whatsapp": "WhatsApp",
+      "call": "Call"
+    },
+    
+    "enterOTP": "Enter verification code",
+    "otpSentTo": "Code sent to {{phone}}",
+    "verify": "Verify",
+    "didntReceive": "Didn't receive the code?",
+    "resend": "Resend",
+    "resendIn": "Resend in {{seconds}}s",
+    "codeExpired": "Code expired",
+    "codeExpiresIn": "Code expires in {{time}}",
+    
+    "verifyEmail": "Verify your email",
+    "emailAddress": "Email address",
+    "emailPlaceholder": "example@email.com",
+    "emailDescription": "Please verify your email address",
+    "emailFirstTimeDescription": "To register, please verify your email",
+    "sendVerificationEmail": "Send verification link",
+    "checkYourEmail": "Check your inbox",
+    "emailSentTo": "Verification link sent to {{email}}",
+    "openMailApp": "Open mail app",
+    "didntReceiveEmail": "Didn't receive the email?",
+    "resendEmail": "Resend",
+    "emailVerified": "Email Verified",
+    "emailVerifiedDescription": "Your email has been verified successfully",
+    
+    "errors": {
+      "no_face_detected": "No face detected",
+      "multiple_faces": "Multiple faces detected",
+      "face_not_centered": "Face not centered",
+      "low_light": "Low light conditions",
+      "verification_failed": "Verification failed",
+      "session_expired": "Session expired",
+      "account_locked": "Account locked",
+      "network_error": "Network error",
+      "invalid_phone": "Invalid phone number",
+      "send_failed": "Failed to send",
+      "invalid_code": "Invalid code",
+      "code_expired": "Code expired",
+      "max_attempts_reached": "Maximum attempts reached",
+      "rate_limited": "Please wait before trying again",
+      "invalid_email": "Invalid email",
+      "emailRequired": "Email is required",
+      "invalid_token": "Invalid token",
+      "token_expired": "Token expired",
+      "already_verified": "Already verified"
+    }
+  },
+  
+  "documents": {
+    "myDocuments": "My Documents",
+    "submitted": "Submitted",
+    "verified": "Verified",
+    "documentsRejected": "{{count}} document(s) rejected",
+    "pleaseResubmit": "Please resubmit the rejected documents",
+    "allVerified": "All documents are verified",
+    "addDocument": "Add document",
+    
+    "currentDocument": "Current document",
+    "replaceDocument": "Replace document",
+    "deleteDocument": "Delete document",
+    "deleteConfirmation": "Are you sure you want to delete this document?",
+    "discardChanges": "Discard changes",
+    "discardChangesDescription": "The selected document has not been saved. Do you want to continue?",
+    
+    "tips": "Tips",
+    "takePhoto": "Take a photo",
+    "chooseFromGallery": "Choose from gallery",
+    "uploadPDF": "Upload PDF",
+    "change": "Change",
+    "upload": "Upload",
+    "uploading": "Uploading...",
+    "uploadSuccess": "Upload successful",
+    "uploadSuccessDescription": "The document has been uploaded and is pending review",
+    "uploadFailed": "Upload failed",
+    "uploadFailedDescription": "An error occurred while uploading",
+    
+    "cameraPermissionRequired": "Camera permission is required",
+    "galleryPermissionRequired": "Gallery permission is required",
+    
+    "whyDocuments": "Why these documents?",
+    "documentsExplanation": "We need to verify your identity and vehicle to ensure the safety of all users",
+    "help": "Help",
+    "helpDescription": "If you need help, contact our support team",
+    
+    "status": {
+      "not_submitted": "Not submitted",
+      "pending_review": "Pending review",
+      "verified": "Verified",
+      "rejected": "Rejected"
+    },
+    
+    "badges": {
+      "not_submitted": "Documents not submitted",
+      "pending_verification": "Documents pending verification",
+      "verified": "Documents verified",
+      "rejected": "Documents rejected",
+      "call_required": "Verification call required"
+    },
+    
+    "types": {
+      "drivingLicense": "Driving license (front)",
+      "drivingLicenseBack": "Driving license (back)",
+      "nationalId": "National ID (front)",
+      "nationalIdBack": "National ID (back)",
+      "vehicleRegistration": "Vehicle registration card",
+      "insurance": "Insurance certificate",
+      "criminalRecord": "Criminal record certificate",
+      "vehicleFront": "Vehicle photo (front)",
+      "vehicleBack": "Vehicle photo (back)",
+      "profilePhoto": "Profile photo"
+    },
+    
+    "categories": {
+      "identity": "Identity documents",
+      "vehicle": "Vehicle documents",
+      "legal": "Legal documents",
+      "profile": "Profile photos"
+    }
+  },
+  
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "discard": "Discard",
+    "skip": "Skip",
+    "sending": "Sending...",
+    "verifying": "Verifying...",
+    "permissionRequired": "Permission required",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done",
+    "save": "Save",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}

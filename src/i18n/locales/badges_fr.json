@@ -1,0 +1,41 @@
+{
+  "badges": {
+    "myBadges": "Mes badges",
+    "earnedBadges": "Badges obtenus",
+    "availableBadges": "Badges disponibles",
+    "noBadges": "Pas de badges pour le moment",
+
+    "basicBadge": "Basique",
+    "basicDesc": "Utilisateur vérifié Sally",
+    "basicReq": "Terminer la vérification d'email",
+
+    "verifiedBadge": "Vérifié",
+    "verifiedDesc": "Compte complètement vérifié",
+    "verifiedReq": "Terminer toutes les étapes de vérification",
+
+    "premiumBadge": "Premium",
+    "premiumDesc": "Membre premium avec avantages",
+    "premiumReq": "Effectuer 10 trajets vérifiés",
+
+    "eliteBadge": "Elite",
+    "eliteDesc": "Membre de première classe",
+    "eliteReq": "Effectuer 50 trajets vérifiés",
+
+    "safeBadge": "Sûr",
+    "safeDesc": "Note de sécurité élevée",
+    "safeReq": "Maintenir une note 4.8+ étoiles",
+
+    "socialBadge": "Communauté",
+    "socialDesc": "Actif dans la communauté",
+    "socialReq": "Partager 5 trajets",
+
+    "progressTowards": "Progression vers {{badge}}",
+    "earnedOn": "Obtenu le {{date}}",
+    "benefits": "Avantages",
+    "viewBenefits": "Voir les avantages",
+    "requirements": "Conditions",
+    "congratulations": "Félicitations!",
+    "badgeEarned": "Vous avez obtenu le badge {{badge}}!",
+    "continue": "Continuez à gagner des badges"
+  }
+}

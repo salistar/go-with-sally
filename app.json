@@ -1,0 +1,140 @@
+{
+  "expo": {
+    "name": "Go With Sally",
+    "slug": "gowithsally",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF69B4"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gowithsally.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Go With Sally utilise la caméra pour la vérification faciale, le scan QR et l'envoi de photos/vidéos dans le chat",
+        "NSPhotoLibraryUsageDescription": "Go With Sally utilise vos photos pour votre profil et le partage dans les conversations",
+        "NSPhotoLibraryAddUsageDescription": "Go With Sally enregistre les photos et vidéos reçues dans votre galerie",
+        "NSLocationWhenInUseUsageDescription": "Go With Sally utilise votre position pour trouver des courses et partager votre localisation",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Go With Sally utilise votre position pour le suivi en temps réel des courses",
+        "NSMicrophoneUsageDescription": "Go With Sally utilise le microphone pour les appels et les messages vocaux",
+        "NSFaceIDUsageDescription": "Go With Sally utilise Face ID pour une connexion sécurisée",
+        "UIBackgroundModes": [
+          "location",
+          "fetch",
+          "remote-notification",
+          "voip",
+          "audio"
+        ]
+      },
+      "config": {
+        "googleMapsApiKey": "AIzaSyAhMNp4u70bsprZjUHwRvPME4JSn9O3xbk"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FF69B4"
+      },
+      "package": "com.gowithsally.app",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_MEDIA_IMAGES",
+        "READ_MEDIA_VIDEO",
+        "READ_MEDIA_AUDIO",
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS",
+        "VIBRATE",
+        "USE_BIOMETRIC",
+        "USE_FINGERPRINT",
+        "FOREGROUND_SERVICE",
+        "FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "WAKE_LOCK"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAhMNp4u70bsprZjUHwRvPME4JSn9O3xbk"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Go With Sally utilise votre position pour le suivi des courses et le partage de localisation dans le chat."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Go With Sally utilise la caméra pour la vérification faciale et l'envoi de photos/vidéos."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Go With Sally accède à vos photos pour votre profil et le partage dans les conversations.",
+          "cameraPermission": "Go With Sally utilise la caméra pour prendre des photos et vidéos à partager."
+        }
+      ],
+      [
+        "expo-av",
+        {
+          "microphonePermission": "Go With Sally utilise le microphone pour enregistrer des messages vocaux."
+        }
+      ],
+      [
+        "expo-document-picker",
+        {
+          "iCloudContainerEnvironment": "Production"
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Go With Sally enregistre les médias reçus dans votre galerie.",
+          "savePhotosPermission": "Go With Sally enregistre les photos et vidéos dans votre galerie.",
+          "isAccessMediaLocationEnabled": true
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#FF69B4",
+          "sounds": [
+            "./assets/sounds/notification.wav"
+          ]
+        }
+      ],
+      [
+        "expo-file-system",
+        {
+          "externalStoragePermission": "Go With Sally accède au stockage pour gérer les fichiers partagés."
+        }
+      ],
+      "expo-localization",
+      "expo-secure-store",
+      "expo-local-authentication"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "your-project-id"
+      }
+    },
+    "owner": "gowithsally"
+  }
+}

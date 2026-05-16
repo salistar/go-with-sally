@@ -1,0 +1,41 @@
+{
+  "badges": {
+    "myBadges": "شاراتي",
+    "earnedBadges": "الشارات المكتسبة",
+    "availableBadges": "الشارات المتاحة",
+    "noBadges": "لا توجد شارات حتى الآن",
+
+    "basicBadge": "أساسي",
+    "basicDesc": "راكب معروف في سالي",
+    "basicReq": "أكمل التحقق من البريد الإلكتروني",
+
+    "verifiedBadge": "معروف",
+    "verifiedDesc": "حساب تم التحقق منه بالكامل",
+    "verifiedReq": "أكمل جميع خطوات التحقق",
+
+    "premiumBadge": "بريميوم",
+    "premiumDesc": "عضو بريميوم مع مزايا",
+    "premiumReq": "أكمل 10 رحلات معروفة",
+
+    "eliteBadge": "نخبة",
+    "eliteDesc": "عضو مصنف في الأعلى",
+    "eliteReq": "أكمل 50 رحلة معروفة",
+
+    "safeBadge": "آمن",
+    "safeDesc": "تقييم أمان عالي",
+    "safeReq": "الحفاظ على تقييم 4.8+ نجوم",
+
+    "socialBadge": "اجتماعي",
+    "socialDesc": "نشط في المجتمع",
+    "socialReq": "شارك 5 رحلات",
+
+    "progressTowards": "التقدم نحو {{badge}}",
+    "earnedOn": "حصل عليه في {{date}}",
+    "benefits": "المزايا",
+    "viewBenefits": "عرض المزايا",
+    "requirements": "المتطلبات",
+    "congratulations": "مبروك!",
+    "badgeEarned": "لقد حصلت على شارة {{badge}}!",
+    "continue": "استمر في كسب الشارات"
+  }
+}

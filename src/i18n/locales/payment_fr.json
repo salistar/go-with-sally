@@ -1,0 +1,55 @@
+{
+  "payment": {
+    "paymentMethods": "Moyens de paiement",
+    "addPaymentMethod": "Ajouter un moyen de paiement",
+    "editPaymentMethod": "Modifier le moyen de paiement",
+    "deletePaymentMethod": "Supprimer le moyen de paiement",
+    "setAsDefault": "Définir par défaut",
+    "removeCard": "Retirer la carte",
+
+    "cardNumber": "Numéro de carte",
+    "cardHolder": "Nom du titulaire",
+    "expiryDate": "Date d'expiration",
+    "cvv": "CVV",
+    "cardType": "Type de carte",
+
+    "visa": "Visa",
+    "mastercard": "Mastercard",
+    "amex": "American Express",
+
+    "wallet": "Portefeuille Sally",
+    "walletBalance": "Solde du portefeuille",
+    "addFunds": "Ajouter des fonds",
+    "withdrawFunds": "Retirer des fonds",
+    "transactionHistory": "Historique des transactions",
+
+    "mobileMoney": "Paiement mobile",
+    "maroc_telecom": "Maroc Telecom",
+    "orange": "Orange",
+    "inwi": "Inwi",
+
+    "bankTransfer": "Virement bancaire",
+    "accountHolder": "Titulaire du compte",
+    "accountNumber": "Numéro de compte",
+    "bankName": "Nom de la banque",
+
+    "paymentFailed": "Paiement échoué",
+    "paymentSuccess": "Paiement réussi",
+    "paymentPending": "Paiement en attente",
+    "paymentCancelled": "Paiement annulé",
+
+    "addCardSuccess": "Carte ajoutée avec succès",
+    "deleteCardSuccess": "Carte supprimée avec succès",
+    "defaultCardSet": "Carte définie par défaut",
+
+    "invalidCard": "Numéro de carte invalide",
+    "invalidCVV": "CVV invalide",
+    "invalidExpiry": "Date d'expiration invalide",
+    "cardExpired": "La carte a expiré",
+
+    "transactionDate": "Date",
+    "transactionAmount": "Montant",
+    "transactionStatus": "Statut",
+    "transactionType": "Type"
+  }
+}

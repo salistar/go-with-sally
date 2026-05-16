@@ -1,0 +1,41 @@
+{
+  "badges": {
+    "myBadges": "My Badges",
+    "earnedBadges": "Earned Badges",
+    "availableBadges": "Available Badges",
+    "noBadges": "No badges yet",
+
+    "basicBadge": "Basic",
+    "basicDesc": "Verified rider with Sally",
+    "basicReq": "Complete email verification",
+
+    "verifiedBadge": "Verified",
+    "verifiedDesc": "Fully verified account",
+    "verifiedReq": "Complete all verification steps",
+
+    "premiumBadge": "Premium",
+    "premiumDesc": "Premium member with benefits",
+    "premiumReq": "Complete 10 verified rides",
+
+    "eliteBadge": "Elite",
+    "eliteDesc": "Top-rated member",
+    "eliteReq": "Complete 50 verified rides",
+
+    "safeBadge": "Safe",
+    "safeDesc": "High safety rating",
+    "safeReq": "Maintain 4.8+ star rating",
+
+    "socialBadge": "Social",
+    "socialDesc": "Active in community",
+    "socialReq": "Share 5 trips",
+
+    "progressTowards": "Progress towards {{badge}}",
+    "earnedOn": "Earned on {{date}}",
+    "benefits": "Benefits",
+    "viewBenefits": "View benefits",
+    "requirements": "Requirements",
+    "congratulations": "Congratulations!",
+    "badgeEarned": "You've earned the {{badge}} badge!",
+    "continue": "Continue earning badges"
+  }
+}

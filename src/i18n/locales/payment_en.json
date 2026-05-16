@@ -1,0 +1,55 @@
+{
+  "payment": {
+    "paymentMethods": "Payment Methods",
+    "addPaymentMethod": "Add Payment Method",
+    "editPaymentMethod": "Edit Payment Method",
+    "deletePaymentMethod": "Delete Payment Method",
+    "setAsDefault": "Set as default",
+    "removeCard": "Remove card",
+
+    "cardNumber": "Card Number",
+    "cardHolder": "Card Holder Name",
+    "expiryDate": "Expiry Date",
+    "cvv": "CVV",
+    "cardType": "Card Type",
+
+    "visa": "Visa",
+    "mastercard": "Mastercard",
+    "amex": "American Express",
+
+    "wallet": "Sally Wallet",
+    "walletBalance": "Wallet Balance",
+    "addFunds": "Add Funds",
+    "withdrawFunds": "Withdraw Funds",
+    "transactionHistory": "Transaction History",
+
+    "mobileMoney": "Mobile Money",
+    "maroc_telecom": "Maroc Telecom",
+    "orange": "Orange",
+    "inwi": "Inwi",
+
+    "bankTransfer": "Bank Transfer",
+    "accountHolder": "Account Holder",
+    "accountNumber": "Account Number",
+    "bankName": "Bank Name",
+
+    "paymentFailed": "Payment Failed",
+    "paymentSuccess": "Payment Successful",
+    "paymentPending": "Payment Pending",
+    "paymentCancelled": "Payment Cancelled",
+
+    "addCardSuccess": "Card added successfully",
+    "deleteCardSuccess": "Card deleted successfully",
+    "defaultCardSet": "Card set as default",
+
+    "invalidCard": "Invalid card number",
+    "invalidCVV": "Invalid CVV",
+    "invalidExpiry": "Invalid expiry date",
+    "cardExpired": "Card has expired",
+
+    "transactionDate": "Date",
+    "transactionAmount": "Amount",
+    "transactionStatus": "Status",
+    "transactionType": "Type"
+  }
+}

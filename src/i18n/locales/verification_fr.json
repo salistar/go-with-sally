@@ -1,0 +1,155 @@
+{
+  "verification": {
+    "faceVerification": "Vérification faciale",
+    "faceVerificationDescription": "Veuillez regarder la caméra pour vérifier votre identité",
+    "positionFace": "Positionnez votre visage dans le cadre",
+    "verifying": "Vérification en cours...",
+    "faceVerified": "Visage vérifié avec succès",
+    "accountLocked": "Compte verrouillé",
+    "tryAgainIn": "Réessayez dans {{time}}",
+    "remainingAttempts": "Tentatives restantes : {{count}}",
+    
+    "enterPhone": "Entrez votre numéro de téléphone",
+    "phoneDescription": "Nous vous enverrons un code de vérification",
+    "sendCode": "Envoyer le code",
+    "sendVia": {
+      "sms": "SMS",
+      "whatsapp": "WhatsApp",
+      "call": "Appel"
+    },
+    
+    "enterOTP": "Entrez le code de vérification",
+    "otpSentTo": "Code envoyé au {{phone}}",
+    "verify": "Vérifier",
+    "didntReceive": "Vous n'avez pas reçu le code ?",
+    "resend": "Renvoyer",
+    "resendIn": "Renvoyer dans {{seconds}}s",
+    "codeExpired": "Code expiré",
+    "codeExpiresIn": "Le code expire dans {{time}}",
+    
+    "verifyEmail": "Vérifiez votre email",
+    "emailAddress": "Adresse email",
+    "emailPlaceholder": "exemple@email.com",
+    "emailDescription": "Veuillez vérifier votre adresse email",
+    "emailFirstTimeDescription": "Pour vous inscrire, veuillez vérifier votre email",
+    "sendVerificationEmail": "Envoyer le lien de vérification",
+    "checkYourEmail": "Vérifiez votre boîte mail",
+    "emailSentTo": "Lien de vérification envoyé à {{email}}",
+    "openMailApp": "Ouvrir l'application mail",
+    "didntReceiveEmail": "Vous n'avez pas reçu l'email ?",
+    "resendEmail": "Renvoyer",
+    "emailVerified": "Email vérifié",
+    "emailVerifiedDescription": "Votre email a été vérifié avec succès",
+    
+    "errors": {
+      "no_face_detected": "Aucun visage détecté",
+      "multiple_faces": "Plusieurs visages détectés",
+      "face_not_centered": "Visage non centré",
+      "low_light": "Éclairage insuffisant",
+      "verification_failed": "Échec de la vérification",
+      "session_expired": "Session expirée",
+      "account_locked": "Compte verrouillé",
+      "network_error": "Erreur de connexion",
+      "invalid_phone": "Numéro de téléphone invalide",
+      "send_failed": "Échec de l'envoi",
+      "invalid_code": "Code incorrect",
+      "code_expired": "Code expiré",
+      "max_attempts_reached": "Nombre maximum de tentatives atteint",
+      "rate_limited": "Veuillez patienter avant de réessayer",
+      "invalid_email": "Email invalide",
+      "emailRequired": "L'email est requis",
+      "invalid_token": "Token invalide",
+      "token_expired": "Token expiré",
+      "already_verified": "Déjà vérifié"
+    }
+  },
+  
+  "documents": {
+    "myDocuments": "Mes documents",
+    "submitted": "Soumis",
+    "verified": "Vérifiés",
+    "documentsRejected": "{{count}} document(s) rejeté(s)",
+    "pleaseResubmit": "Veuillez renvoyer les documents rejetés",
+    "allVerified": "Tous les documents sont vérifiés",
+    "addDocument": "Ajouter un document",
+    
+    "currentDocument": "Document actuel",
+    "replaceDocument": "Remplacer le document",
+    "deleteDocument": "Supprimer le document",
+    "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer ce document ?",
+    "discardChanges": "Abandonner les modifications",
+    "discardChangesDescription": "Le document sélectionné n'a pas été enregistré. Voulez-vous continuer ?",
+    
+    "tips": "Conseils",
+    "takePhoto": "Prendre une photo",
+    "chooseFromGallery": "Choisir depuis la galerie",
+    "uploadPDF": "Télécharger un PDF",
+    "change": "Changer",
+    "upload": "Télécharger",
+    "uploading": "Téléchargement en cours...",
+    "uploadSuccess": "Téléchargement réussi",
+    "uploadSuccessDescription": "Le document a été téléchargé et est en cours de vérification",
+    "uploadFailed": "Échec du téléchargement",
+    "uploadFailedDescription": "Une erreur s'est produite lors du téléchargement",
+    
+    "cameraPermissionRequired": "L'accès à la caméra est requis",
+    "galleryPermissionRequired": "L'accès à la galerie est requis",
+    
+    "whyDocuments": "Pourquoi ces documents ?",
+    "documentsExplanation": "Nous devons vérifier votre identité et votre véhicule pour assurer la sécurité de tous les utilisateurs",
+    "help": "Aide",
+    "helpDescription": "Si vous avez besoin d'aide, contactez notre équipe de support",
+    
+    "status": {
+      "not_submitted": "Non soumis",
+      "pending_review": "En cours de vérification",
+      "verified": "Vérifié",
+      "rejected": "Rejeté"
+    },
+    
+    "badges": {
+      "not_submitted": "Documents non envoyés",
+      "pending_verification": "Documents en vérification",
+      "verified": "Documents vérifiés",
+      "rejected": "Documents rejetés",
+      "call_required": "Appel de vérification requis"
+    },
+    
+    "types": {
+      "drivingLicense": "Permis de conduire (recto)",
+      "drivingLicenseBack": "Permis de conduire (verso)",
+      "nationalId": "Carte nationale (recto)",
+      "nationalIdBack": "Carte nationale (verso)",
+      "vehicleRegistration": "Carte grise",
+      "insurance": "Attestation d'assurance",
+      "criminalRecord": "Fiche anthropométrique",
+      "vehicleFront": "Photo du véhicule (avant)",
+      "vehicleBack": "Photo du véhicule (arrière)",
+      "profilePhoto": "Photo de profil"
+    },
+    
+    "categories": {
+      "identity": "Documents d'identité",
+      "vehicle": "Documents véhicule",
+      "legal": "Documents légaux",
+      "profile": "Photos de profil"
+    }
+  },
+  
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "discard": "Abandonner",
+    "skip": "Passer",
+    "sending": "Envoi en cours...",
+    "verifying": "Vérification...",
+    "permissionRequired": "Permission requise",
+    "back": "Retour",
+    "next": "Suivant",
+    "done": "Terminé",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "close": "Fermer"
+  }
+}

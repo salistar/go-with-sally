@@ -1,0 +1,76 @@
+{
+  "notifications": {
+    "title": "Notifications",
+    "noNotifications": "Aucune notification",
+    "markAllAsRead": "Marquer tout comme lu",
+    "settings": "Paramètres de notification",
+
+    "categories": {
+      "trips": "Trajets",
+      "safety": "Sécurité",
+      "payments": "Paiements",
+      "promotions": "Promotions",
+      "messages": "Messages",
+      "system": "Système"
+    },
+
+    "tripNotifications": {
+      "rideRequest": "Nouvelle demande de trajet",
+      "rideAccepted": "Trajet accepté",
+      "driverArriving": "Le conducteur arrive",
+      "driverArrived": "Le conducteur est arrivé",
+      "rideStarted": "Trajet commencé",
+      "rideCompleted": "Trajet terminé",
+      "riderCancelled": "Trajet annulé par le passager",
+      "driverCancelled": "Trajet annulé par le conducteur"
+    },
+
+    "safetyNotifications": {
+      "sosTriggered": "SOS activé",
+      "sosResolved": "SOS résolu",
+      "reportFile": "Rapport de sécurité déposé",
+      "verificationRequired": "Vérification requise",
+      "emergencyContact": "Contacts d'urgence notifiés"
+    },
+
+    "paymentNotifications": {
+      "paymentProcessed": "Paiement traité",
+      "paymentFailed": "Paiement échoué",
+      "paymentRefunded": "Remboursement effectué",
+      "walletUpdated": "Portefeuille mis à jour",
+      "invoiceGenerated": "Facture générée"
+    },
+
+    "promotionNotifications": {
+      "promoBannerNew": "Nouvelle promotion disponible",
+      "referralBonus": "Bonus de parrainage gagné",
+      "badgeEarned": "Badge gagné",
+      "seasonalOffer": "Offre saisonnière",
+      "dailyReward": "Récompense quotidienne disponible"
+    },
+
+    "messageNotifications": {
+      "newMessage": "Nouveau message de {{name}}",
+      "groupMessage": "Nouveau message dans {{group}}",
+      "supportReply": "Réponse du support"
+    },
+
+    "systemNotifications": {
+      "maintenanceAlert": "Alerte de maintenance",
+      "appUpdate": "Mise à jour de l'app disponible",
+      "accountUpdate": "Compte mis à jour",
+      "securityAlert": "Alerte de sécurité"
+    },
+
+    "notificationTime": "Il y a {{time}}",
+    "today": "Aujourd'hui",
+    "yesterday": "Hier",
+    "thisWeek": "Cette semaine",
+    "earlier": "Avant",
+
+    "pushEnabled": "Notifications push activées",
+    "emailEnabled": "Notifications email activées",
+    "smsEnabled": "Notifications SMS activées",
+    "inAppEnabled": "Notifications in-app activées"
+  }
+}

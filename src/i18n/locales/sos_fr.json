@@ -1,0 +1,52 @@
+{
+  "sos": {
+    "title": "Urgence - SOS",
+    "emergency": "Urgence",
+    "emergencyNumbers": "Numéros d'urgence",
+    "emergencyServices": "Services d'urgence",
+
+    "ambulance": "Ambulance",
+    "ambulanceDesc": "Services d'urgence médicale",
+    "ambulanceNumber": "15",
+
+    "police": "Police",
+    "policeDesc": "Services de police",
+    "policeNumber": "19",
+
+    "fire": "Pompiers",
+    "fireDesc": "Services de pompiers et sauvetage",
+    "fireNumber": "15",
+
+    "gendarmerie": "Gendarmerie",
+    "gendarmerieDesc": "Gendarmerie nationale",
+    "gendarmerieNumber": "17",
+
+    "warning": "En cas d'urgence",
+    "warningMessage": "Appelez les services d'urgence immédiatement",
+
+    "callConfirm": "Confirmer l'appel",
+    "callConfirmMessage": "Voulez-vous appeler {{name}} ({{number}})?",
+    "call": "Appeler",
+    "callError": "Impossible d'effectuer l'appel",
+
+    "support": "Support Sally",
+    "contactSupport": "Contacter le support",
+    "contactSupportMessage": "Conversation en direct avec un agent Sally",
+    "supportTitle": "Support Sally",
+    "chatTitle": "Support Sally",
+    "chatMessage": "Un agent Sally va vous répondre dans quelques instants",
+
+    "reportIssue": "Signaler un problème",
+    "reportMessage": "Décrivez le problème rencontré",
+    "reportTitle": "Signaler un problème",
+    "reportIssueMessage": "Nous aider à améliorer la sécurité",
+    "reportSent": "Signalement envoyé",
+    "reportThank": "Merci de nous aider à améliorer le service",
+
+    "safetyTips": "Conseils de sécurité",
+    "tip1": "Partagez votre trajet avec vos amis",
+    "tip2": "Vérifiez les informations du conducteur",
+    "tip3": "Gardez votre téléphone chargé",
+    "tip4": "Signalez tout incident anormal"
+  }
+}

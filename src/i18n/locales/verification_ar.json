@@ -1,0 +1,155 @@
+{
+  "verification": {
+    "faceVerification": "التحقق من الوجه",
+    "faceVerificationDescription": "يرجى النظر إلى الكاميرا للتحقق من هويتك",
+    "positionFace": "ضع وجهك داخل الإطار",
+    "verifying": "جاري التحقق...",
+    "faceVerified": "تم التحقق من الوجه بنجاح",
+    "accountLocked": "الحساب مغلق",
+    "tryAgainIn": "حاول مرة أخرى بعد {{time}}",
+    "remainingAttempts": "المحاولات المتبقية: {{count}}",
+    
+    "enterPhone": "أدخل رقم هاتفك",
+    "phoneDescription": "سنرسل لك رمز التحقق",
+    "sendCode": "إرسال الرمز",
+    "sendVia": {
+      "sms": "SMS",
+      "whatsapp": "واتساب",
+      "call": "مكالمة"
+    },
+    
+    "enterOTP": "أدخل رمز التحقق",
+    "otpSentTo": "تم إرسال الرمز إلى {{phone}}",
+    "verify": "تحقق",
+    "didntReceive": "لم تستلم الرمز؟",
+    "resend": "إعادة الإرسال",
+    "resendIn": "إعادة الإرسال بعد {{seconds}} ثانية",
+    "codeExpired": "انتهت صلاحية الرمز",
+    "codeExpiresIn": "ينتهي الرمز خلال {{time}}",
+    
+    "verifyEmail": "تحقق من بريدك الإلكتروني",
+    "emailAddress": "البريد الإلكتروني",
+    "emailPlaceholder": "example@email.com",
+    "emailDescription": "يرجى التحقق من بريدك الإلكتروني",
+    "emailFirstTimeDescription": "للتسجيل، يرجى التحقق من بريدك الإلكتروني",
+    "sendVerificationEmail": "إرسال رابط التحقق",
+    "checkYourEmail": "تحقق من بريدك",
+    "emailSentTo": "تم إرسال رابط التحقق إلى {{email}}",
+    "openMailApp": "فتح تطبيق البريد",
+    "didntReceiveEmail": "لم تستلم البريد؟",
+    "resendEmail": "إعادة الإرسال",
+    "emailVerified": "تم التحقق من البريد",
+    "emailVerifiedDescription": "تم التحقق من بريدك الإلكتروني بنجاح",
+    
+    "errors": {
+      "no_face_detected": "لم يتم اكتشاف وجه",
+      "multiple_faces": "تم اكتشاف أكثر من وجه",
+      "face_not_centered": "الوجه غير متمركز",
+      "low_light": "الإضاءة منخفضة",
+      "verification_failed": "فشل التحقق",
+      "session_expired": "انتهت الجلسة",
+      "account_locked": "الحساب مغلق",
+      "network_error": "خطأ في الاتصال",
+      "invalid_phone": "رقم هاتف غير صالح",
+      "send_failed": "فشل الإرسال",
+      "invalid_code": "رمز غير صحيح",
+      "code_expired": "انتهت صلاحية الرمز",
+      "max_attempts_reached": "تم تجاوز الحد الأقصى للمحاولات",
+      "rate_limited": "الرجاء الانتظار قبل المحاولة مرة أخرى",
+      "invalid_email": "بريد إلكتروني غير صالح",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "invalid_token": "رمز غير صالح",
+      "token_expired": "انتهت صلاحية الرمز",
+      "already_verified": "تم التحقق مسبقاً"
+    }
+  },
+  
+  "documents": {
+    "myDocuments": "وثائقي",
+    "submitted": "المرسلة",
+    "verified": "المتحقق منها",
+    "documentsRejected": "{{count}} وثيقة مرفوضة",
+    "pleaseResubmit": "يرجى إعادة إرسال الوثائق المرفوضة",
+    "allVerified": "تم التحقق من جميع الوثائق",
+    "addDocument": "إضافة وثيقة",
+    
+    "currentDocument": "الوثيقة الحالية",
+    "replaceDocument": "استبدال الوثيقة",
+    "deleteDocument": "حذف الوثيقة",
+    "deleteConfirmation": "هل أنت متأكد من حذف هذه الوثيقة؟",
+    "discardChanges": "تجاهل التغييرات",
+    "discardChangesDescription": "لم يتم حفظ الوثيقة المختارة. هل تريد المتابعة؟",
+    
+    "tips": "نصائح",
+    "takePhoto": "التقاط صورة",
+    "chooseFromGallery": "اختيار من المعرض",
+    "uploadPDF": "رفع PDF",
+    "change": "تغيير",
+    "upload": "رفع",
+    "uploading": "جاري الرفع...",
+    "uploadSuccess": "تم الرفع بنجاح",
+    "uploadSuccessDescription": "تم رفع الوثيقة وهي قيد المراجعة",
+    "uploadFailed": "فشل الرفع",
+    "uploadFailedDescription": "حدث خطأ أثناء رفع الوثيقة",
+    
+    "cameraPermissionRequired": "يجب السماح بالوصول للكاميرا",
+    "galleryPermissionRequired": "يجب السماح بالوصول للمعرض",
+    
+    "whyDocuments": "لماذا نحتاج الوثائق؟",
+    "documentsExplanation": "نحتاج إلى التحقق من هويتك ومركبتك لضمان سلامة جميع المستخدمين",
+    "help": "مساعدة",
+    "helpDescription": "إذا كنت بحاجة للمساعدة، يرجى التواصل مع فريق الدعم",
+    
+    "status": {
+      "not_submitted": "غير مرسل",
+      "pending_review": "قيد المراجعة",
+      "verified": "تم التحقق",
+      "rejected": "مرفوض"
+    },
+    
+    "badges": {
+      "not_submitted": "الوثائق غير مرسلة",
+      "pending_verification": "الوثائق قيد التحقق",
+      "verified": "الوثائق مُتحقق منها",
+      "rejected": "الوثائق مرفوضة",
+      "call_required": "مكالمة تحقق مطلوبة"
+    },
+    
+    "types": {
+      "drivingLicense": "رخصة السياقة (الوجه الأمامي)",
+      "drivingLicenseBack": "رخصة السياقة (الوجه الخلفي)",
+      "nationalId": "البطاقة الوطنية (الوجه الأمامي)",
+      "nationalIdBack": "البطاقة الوطنية (الوجه الخلفي)",
+      "vehicleRegistration": "البطاقة الرمادية",
+      "insurance": "شهادة التأمين",
+      "criminalRecord": "الفيش الأنثروبومتري",
+      "vehicleFront": "صورة السيارة (الأمام)",
+      "vehicleBack": "صورة السيارة (الخلف)",
+      "profilePhoto": "صورة شخصية"
+    },
+    
+    "categories": {
+      "identity": "وثائق الهوية",
+      "vehicle": "وثائق السيارة",
+      "legal": "الوثائق القانونية",
+      "profile": "الصور الشخصية"
+    }
+  },
+  
+  "common": {
+    "ok": "حسناً",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "discard": "تجاهل",
+    "skip": "تخطي",
+    "sending": "جاري الإرسال...",
+    "verifying": "جاري التحقق...",
+    "permissionRequired": "الإذن مطلوب",
+    "back": "رجوع",
+    "next": "التالي",
+    "done": "تم",
+    "save": "حفظ",
+    "edit": "تعديل",
+    "close": "إغلاق"
+  }
+}

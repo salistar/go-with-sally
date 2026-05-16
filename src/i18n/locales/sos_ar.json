@@ -1,0 +1,52 @@
+{
+  "sos": {
+    "title": "الطوارئ - استغاثة",
+    "emergency": "طوارئ",
+    "emergencyNumbers": "أرقام الطوارئ",
+    "emergencyServices": "خدمات الطوارئ",
+
+    "ambulance": "سيارة إسعاف",
+    "ambulanceDesc": "خدمات الطوارئ الطبية",
+    "ambulanceNumber": "15",
+
+    "police": "الشرطة",
+    "policeDesc": "خدمات الشرطة",
+    "policeNumber": "19",
+
+    "fire": "الإطفاء",
+    "fireDesc": "خدمات الإطفاء والإنقاذ",
+    "fireNumber": "15",
+
+    "gendarmerie": "الدرك الوطني",
+    "gendarmerieDesc": "الدرك الوطني",
+    "gendarmerieNumber": "17",
+
+    "warning": "في حالة الطوارئ",
+    "warningMessage": "اتصل بخدمات الطوارئ على الفور",
+
+    "callConfirm": "تأكيد المكالمة",
+    "callConfirmMessage": "هل تريد الاتصال بـ {{name}} ({{number}})?",
+    "call": "اتصل",
+    "callError": "لا يمكن إجراء المكالمة",
+
+    "support": "دعم سالي",
+    "contactSupport": "اتصل بالدعم",
+    "contactSupportMessage": "محادثة مباشرة مع وكيل سالي",
+    "supportTitle": "دعم سالي",
+    "chatTitle": "دعم سالي",
+    "chatMessage": "سيرد عليك وكيل سالي قريباً",
+
+    "reportIssue": "الإبلاغ عن مشكلة",
+    "reportMessage": "صف المشكلة التي واجهتها",
+    "reportTitle": "الإبلاغ عن مشكلة",
+    "reportIssueMessage": "ساعدنا في تحسين الأمان",
+    "reportSent": "تم إرسال البلاغ",
+    "reportThank": "شكراً لمساعدتك في تحسين الخدمة",
+
+    "safetyTips": "نصائح الأمان",
+    "tip1": "شارك رحلتك مع أصدقائك",
+    "tip2": "تحقق من معلومات السائق",
+    "tip3": "احتفظ بهاتفك مشحوناً",
+    "tip4": "أبلغ عن أي حادثة غير عادية"
+  }
+}

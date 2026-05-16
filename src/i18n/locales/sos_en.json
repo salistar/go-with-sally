@@ -1,0 +1,52 @@
+{
+  "sos": {
+    "title": "Emergency - SOS",
+    "emergency": "Emergency",
+    "emergencyNumbers": "Emergency Numbers",
+    "emergencyServices": "Emergency Services",
+
+    "ambulance": "Ambulance",
+    "ambulanceDesc": "Medical emergency services",
+    "ambulanceNumber": "15",
+
+    "police": "Police",
+    "policeDesc": "Police services",
+    "policeNumber": "19",
+
+    "fire": "Fire Department",
+    "fireDesc": "Fire and rescue services",
+    "fireNumber": "15",
+
+    "gendarmerie": "Gendarmerie",
+    "gendarmerieDesc": "National gendarmerie",
+    "gendarmerieNumber": "17",
+
+    "warning": "In case of emergency",
+    "warningMessage": "Call emergency services immediately",
+
+    "callConfirm": "Confirm call",
+    "callConfirmMessage": "Do you want to call {{name}} ({{number}})?",
+    "call": "Call",
+    "callError": "Unable to make the call",
+
+    "support": "Sally Support",
+    "contactSupport": "Contact support",
+    "contactSupportMessage": "Live chat with a Sally agent",
+    "supportTitle": "Sally Support",
+    "chatTitle": "Support Sally",
+    "chatMessage": "A Sally agent will respond to you shortly",
+
+    "reportIssue": "Report an issue",
+    "reportMessage": "Describe the problem you encountered",
+    "reportTitle": "Report an issue",
+    "reportIssueMessage": "Help us improve safety",
+    "reportSent": "Report sent",
+    "reportThank": "Thank you for helping us improve the service",
+
+    "safetyTips": "Safety Tips",
+    "tip1": "Share your trip with friends",
+    "tip2": "Verify driver information",
+    "tip3": "Keep your phone charged",
+    "tip4": "Report any unusual incidents"
+  }
+}

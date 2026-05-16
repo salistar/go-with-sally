@@ -1,0 +1,20 @@
+node_modules/
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.env
+ios/
+android/
+
+# watcher state
+.gh-watch-state
+
+# extra env (templates only are committed)
+.env
+*.local

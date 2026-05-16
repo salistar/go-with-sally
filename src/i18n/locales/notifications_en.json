@@ -1,0 +1,76 @@
+{
+  "notifications": {
+    "title": "Notifications",
+    "noNotifications": "No notifications",
+    "markAllAsRead": "Mark all as read",
+    "settings": "Notification Settings",
+
+    "categories": {
+      "trips": "Trips",
+      "safety": "Safety",
+      "payments": "Payments",
+      "promotions": "Promotions",
+      "messages": "Messages",
+      "system": "System"
+    },
+
+    "tripNotifications": {
+      "rideRequest": "New ride request",
+      "rideAccepted": "Ride accepted",
+      "driverArriving": "Driver is arriving",
+      "driverArrived": "Driver has arrived",
+      "rideStarted": "Ride started",
+      "rideCompleted": "Ride completed",
+      "riderCancelled": "Ride cancelled by rider",
+      "driverCancelled": "Ride cancelled by driver"
+    },
+
+    "safetyNotifications": {
+      "sosTriggered": "SOS activated",
+      "sosResolved": "SOS resolved",
+      "reportFile": "Safety report filed",
+      "verificationRequired": "Verification required",
+      "emergencyContact": "Emergency contact notified"
+    },
+
+    "paymentNotifications": {
+      "paymentProcessed": "Payment processed",
+      "paymentFailed": "Payment failed",
+      "paymentRefunded": "Payment refunded",
+      "walletUpdated": "Wallet updated",
+      "invoiceGenerated": "Invoice generated"
+    },
+
+    "promotionNotifications": {
+      "promoBannerNew": "New promotion available",
+      "referralBonus": "Referral bonus earned",
+      "badgeEarned": "Badge earned",
+      "seasonalOffer": "Seasonal offer",
+      "dailyReward": "Daily reward available"
+    },
+
+    "messageNotifications": {
+      "newMessage": "New message from {{name}}",
+      "groupMessage": "New message in {{group}}",
+      "supportReply": "Support replied"
+    },
+
+    "systemNotifications": {
+      "maintenanceAlert": "Maintenance alert",
+      "appUpdate": "App update available",
+      "accountUpdate": "Account updated",
+      "securityAlert": "Security alert"
+    },
+
+    "notificationTime": "{{time}} ago",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "thisWeek": "This week",
+    "earlier": "Earlier",
+
+    "pushEnabled": "Push notifications enabled",
+    "emailEnabled": "Email notifications enabled",
+    "smsEnabled": "SMS notifications enabled",
+    "inAppEnabled": "In-app notifications enabled"
+  }
+}
