@@ -47,6 +47,15 @@ jobs:
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
+      - name: Aligner les deps sur Expo SDK 52 (expo install --fix)
+        # Certains paquets etaient trop recents (SDK 53) : expo-clipboard ^8,
+        # expo-image-manipulator ^14, expo-print ^15, expo-maps, expo-updates ^29.
+        # -> 'expo-module-gradle-plugin not found' au prebuild/gradle.
+        # expo install --fix epingle chaque expo-* a la version SDK 52.
+        run: |
+          npx expo install --fix
+          npm install --legacy-peer-deps
+
       - name: Cleanup React 19 RC parasitaire (jest-expo)
         # jest-expo@52 embarque React 19 RC via react-server-dom-webpack.
         # Metro pourrait resoudre cette copie -> hooks casses. On la supprime.
